@@ -2,4 +2,5 @@
 
 <p>
 	<b><liferay-ui:message key="demo.caption"/></b>
+	<b>Let's go!</b>
 </p>
