@@ -2,5 +2,6 @@
 
 <p>
 	<b><liferay-ui:message key="demo.caption"/></b>
-	<b>Let's go!</b>
+	<BR>
+	<b>Let's go with Case Manager</b>
 </p>
